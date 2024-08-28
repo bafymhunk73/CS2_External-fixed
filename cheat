@@ -1,0 +1,21 @@
+CS2_External
+CS2 external cheat.
+
+Analysis and implementation of CS2 external silent aimbot
+
+EN -> SilentAimbot - en
+
+CN -> SilentAimbot - cn
+
+ImGui library -> OS-ImGui
+Derivative projects
+AimStar -> AimStar (By CowNow.)
+Aeonix -> Aeonix (By Fr0go1.)
+NOTICE
+This source just used to study how to code a simple CS2 external hack systematically.
+
+这个源码仅供学习如何系统的写一套CS2外部辅助程序。
+
+The offsets will not be updated in the future, please update it by self.
+
+后续偏移数据将不在提供更新，请自行更新。
